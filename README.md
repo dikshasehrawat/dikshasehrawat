@@ -53,7 +53,7 @@
 - Implements **semantic search with vector embeddings**.
 - Retrieves knowledge from medical documents.
 
-**Tech Stack:** Python, LangChain, Hugging Face, Pinecone, NLP
+**Tech Stack:** Python, LangChain, Hugging Face, Pinecone
 
 ---
 
@@ -102,10 +102,10 @@ https://real-estate-theta-pearl.vercel.app
 ## 🌐 Connect With Me
 
 💼 LinkedIn  
-https://linkedin.com
+https://www.linkedin.com/in/diksha-sehrawat-7a8aa12a3
 
 📧 Email  
-your-email@example.com
+dikshasehrawat05@gmail.com
 
 🐙 GitHub  
 https://github.com/dikshasehrawat
