@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Diksha Sehrawat</h1>
-<h3 align="center">AI Enthusiast | Web Developer | B.Tech Student</h3>
+<h3 align="center">B.Tech IT NSUT | AI Enthusiast | Web Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Explorer;Web+Development+Enthusiast;Machine+Learning+Learner;Building+AI+and+Web+Projects"/>
