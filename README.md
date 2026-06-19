@@ -1,3 +1,5 @@
+<div align="center">
+
 # Diksha Sehrawat
 
 **Data Science Intern @ GreenCell Mobility · AI/ML Enthusiast · B.Tech IT @ NSUT**
@@ -7,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:dikshasehrawat05@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22\&duration=3000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Data+Science+Intern+%40+GreenCell+Mobility;AI+%26+Machine+Learning+Enthusiast;Building+AI+and+Optimization+Systems;Web+Development+Enthusiast)](https://git.io/typing-svg)
-
+</div>
 ---
 
 ## 👩‍💻 About Me
