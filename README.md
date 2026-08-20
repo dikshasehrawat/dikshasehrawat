@@ -2,60 +2,56 @@
 
 # Diksha Sehrawat
 
-**Data Science Intern @ GreenCell Mobility · AI/ML Enthusiast · B.Tech IT @ NSUT**
+**Aspiring Data Analyst · AI/ML Enthusiast · B.Tech IT @ NSUT**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/diksha-sehrawat-7a8aa12a3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)](https://github.com/dikshasehrawat)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:dikshasehrawat05@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22\&duration=3000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Data+Science+Intern+%40+GreenCell+Mobility;AI+%26+Machine+Learning+Enthusiast;Building+AI+and+Optimization+Systems;Web+Development+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22\&duration=3000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Turning+Data+into+Actionable+Insights;Building+AI+and+Analytics+Solutions)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a B.Tech IT student at NSUT passionate about solving real-world problems through **AI, Data Science, Optimization, and Web Development**. I enjoy building machine learning systems, optimization algorithms, and scalable AI applications.
+I'm a B.Tech IT student at NSUT aspiring to build a career in **Data Analytics, Business Analytics, and AI/ML**. I enjoy working with data to uncover insights, solve business problems, and build data-driven solutions.
 
-* 🚌 **Data Science Intern @ GreenCell Mobility** — developing optimization algorithms for the **Pickup and Delivery Problem (PDP)**, a variant of the **Vehicle Routing Problem (VRP)**, for real-world bus route planning
-* 🔬 **Former Research Intern @ DRDO** — studied Adversarial Attacks and Robustness of Deep Learning Models using IBM ART
-* 🤖 Building with **RAG, LangChain, Machine Learning, and Generative AI**
-* 💻 Practicing **DSA** and problem solving daily
-* 🌐 Building modern web applications using **React + Tailwind CSS**
+* 📊 **Aspiring Data Analyst** — passionate about data analysis, business insights, visualization, and problem solving
+* 🚌 **Former Data Science Intern @ GreenCell Mobility** — worked on optimization algorithms for the **Pickup and Delivery Problem (PDP)**, a variant of the **Vehicle Routing Problem (VRP)**
+* 🔬 **Former Research Intern @ DRDO** — worked on adversarial attacks and robustness analysis of deep learning models using IBM ART
+* 📈 Experienced with **Python, SQL, Power BI, Excel, and data analytics**
+* 🤖 Exploring **Machine Learning, RAG, LangChain, and Generative AI**
 
 ---
 
 ## 💼 Experience
 
-### 🚌 Data Science Intern | GreenCell Mobility *(Ongoing)*
+### 🚌 Data Science Intern | GreenCell Mobility
 
-* Developing optimization algorithms for the **Pickup and Delivery Problem (PDP)**, a variant of the **Vehicle Routing Problem (VRP)**
-* Building route optimization systems for bus transportation while satisfying real-world operational constraints
-* Working with transportation and mobility datasets to improve routing efficiency and fleet utilization
+* Developed and evaluated optimization approaches for the **Pickup and Delivery Problem (PDP)**, a variant of the **Vehicle Routing Problem (VRP)**
+* Worked on route optimization for bus transportation while considering real-world operational constraints
+* Explored algorithmic approaches including **brute force, greedy, and genetic algorithms** for transportation optimization
 
 ### 🔬 Research Intern | DRDO
 
 * Studied adversarial attacks on deep learning models and evaluated model robustness
 * Worked with **IBM Adversarial Robustness Toolbox (ART)**
-* Investigated defense strategies against adversarial examples in neural networks
+* Implemented and analyzed adversarial examples and defense strategies for neural networks
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Data Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-
-### Web
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoftexcel\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
 
 ### AI / ML
 
@@ -65,8 +61,10 @@ I'm a B.Tech IT student at NSUT passionate about solving real-world problems thr
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat\&logo=langchain\&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
 
-### Tools
+### Languages & Tools
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
@@ -75,6 +73,22 @@ I'm a B.Tech IT student at NSUT passionate about solving real-world problems thr
 ---
 
 ## 🚀 Featured Projects
+
+### 📊 Marketplace Seller Performance Analysis
+
+> End-to-end analytics project analyzing seller reliability, delivery performance, and customer satisfaction using SQL, Python, and Power BI.
+
+* Built an **end-to-end SQL → Python → Power BI pipeline** analyzing **113K+ orders** and **3,095 sellers**
+* Quantified the relationship between **delivery delays and customer satisfaction**, with correlation of **r = -0.23**
+* Found review scores declining from **4.21 to 1.70** as delivery delays increased
+* Identified **10 high-risk sellers** based on order volume, delivery performance, and customer review metrics
+* Designed a **4-page Power BI dashboard** to surface seller performance trends and actionable business insights
+
+**Stack:** SQL · Python · Pandas · Power BI · Excel · Data Analysis
+
+🔗 **Repository:** https://github.com/dikshasehrawat/Marketplace-Seller-Performance-Analysis
+
+---
 
 ### 🎓 PlacifyX — Campus Placement Prediction System
 
@@ -95,11 +109,11 @@ I'm a B.Tech IT student at NSUT passionate about solving real-world problems thr
 
 ### 🏥 Medical Chatbot — Generative AI
 
-> AI-powered healthcare assistant with context-aware responses via RAG.
+> AI-powered healthcare assistant with context-aware responses using Retrieval-Augmented Generation.
 
 * Answers medical queries using **Retrieval-Augmented Generation**
-* Semantic search with vector embeddings over medical documents
-* Powered by **LangChain + Pinecone + Hugging Face**
+* Implemented semantic search with vector embeddings over medical documents
+* Built using **LangChain + Pinecone + Hugging Face**
 
 **Stack:** Python · LangChain · Hugging Face · Pinecone
 
@@ -109,10 +123,10 @@ I'm a B.Tech IT student at NSUT passionate about solving real-world problems thr
 
 ### 🏡 Real Estate Website
 
-> Modern, responsive property listing app built with React.
+> Modern, responsive property listing application built with React.
 
-* Component-driven UI with **React.js + Tailwind CSS**
-* Fast builds using **Vite**
+* Built a component-driven UI using **React.js + Tailwind CSS**
+* Used **Vite** for fast development and builds
 
 **Stack:** React.js · Vite · Tailwind CSS · JavaScript
 
@@ -124,7 +138,7 @@ I'm a B.Tech IT student at NSUT passionate about solving real-world problems thr
 
 ### 🛒 Amazon Clone | ✊✋✌️ Rock Paper Scissors
 
-Two frontend projects built for practice — a pixel-accurate Amazon homepage clone and an interactive browser-based game with DOM manipulation and score tracking.
+Two frontend projects built for practice — an Amazon homepage clone and an interactive browser-based game with DOM manipulation and score tracking.
 
 🔗 Amazon Clone: https://github.com/dikshasehrawat/Amazon-Shopping-Website-Clone
 
