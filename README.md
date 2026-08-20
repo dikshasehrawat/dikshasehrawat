@@ -144,14 +144,6 @@ Two frontend projects built for practice — an Amazon homepage clone and an int
 
 🔗 Rock Paper Scissors: https://github.com/dikshasehrawat/Rock-Paper-Scissor
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshasehrawat&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasehrawat&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 ---
 
